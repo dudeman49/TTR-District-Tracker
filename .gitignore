@@ -40,15 +40,6 @@ local.properties
 *.user
 *.sln.docstates
 
-# Build results
-
-[Dd]ebug/
-[Rr]elease/
-x64/
-build/
-[Bb]in/
-[Oo]bj/
-
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
@@ -212,3 +203,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+bin/Release/TTR District Tracker.zip

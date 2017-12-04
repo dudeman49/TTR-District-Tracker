@@ -1,0 +1,6 @@
+C:\Users\Kyle Jansma\documents\visual studio 2017\Projects\TTRShardReader\bin\Debug\TTRShardReader.exe.config
+C:\Users\Kyle Jansma\documents\visual studio 2017\Projects\TTRShardReader\bin\Debug\TTRShardReader.exe
+C:\Users\Kyle Jansma\documents\visual studio 2017\Projects\TTRShardReader\bin\Debug\TTRShardReader.pdb
+C:\Users\Kyle Jansma\documents\visual studio 2017\Projects\TTRShardReader\obj\Debug\TTRShardReader.exe
+C:\Users\Kyle Jansma\documents\visual studio 2017\Projects\TTRShardReader\obj\Debug\TTRShardReader.pdb
+C:\Users\Kyle Jansma\documents\visual studio 2017\Projects\TTRShardReader\obj\Debug\TTRShardReader.csprojResolveAssemblyReference.cache
